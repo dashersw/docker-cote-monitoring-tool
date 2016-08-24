@@ -1,0 +1,19 @@
+{
+  "name": "docker-cote-monitoring-tool",
+  "version": "0.1.0",
+  "description": "cote monitoring tool",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dashersw/docker-cote-monitoring-tool.git"
+  },
+  "author": "Armagan Amcalar <armagan@amcalar.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dashersw/docker-cote-monitoring-tool/issues"
+  },
+  "homepage": "https://github.com/dashersw/docker-cote-monitoring-tool#readme",
+  "dependencies": {
+    "cote": "https://github.com/dashersw/cote/archive/monitoring-tool.tar.gz"
+  }
+}
